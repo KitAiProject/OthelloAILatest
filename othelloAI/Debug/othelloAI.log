@@ -1,0 +1,23 @@
+﻿2015/10/20 19:11:54 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\program\OthelloAIgit\git\othelloAI\othelloAI\othelloAI.vcxproj" (Build ターゲット)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\program\OthelloAIgit\git\othelloAI\Debug\othelloAI.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\program\OthelloAIgit\git\othelloAI\Debug\othelloAI.pdb" /SUBSYSTEM:WINDOWS /HEAP:"5368709120","5368709120" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\program\OthelloAIgit\git\othelloAI\Debug\othelloAI.lib" /MACHINE:X86 Debug\othelloAI.res
+         Debug\baseAI.obj
+         Debug\HashBoard.obj
+         Debug\myAI.obj
+         Debug\myAI2.obj
+         Debug\othello.obj
+         Debug\othelloAI.obj
+         Debug\othelloAIDlg.obj
+         Debug\othellogic.obj
+         Debug\player.obj
+         Debug\sampleAI.obj
+         Debug\SelectDig.obj
+         Debug\stdafx.obj
+         Debug\tracks.obj
+         othelloAI.vcxproj -> D:\program\OthelloAIgit\git\othelloAI\Debug\othelloAI.exe
+     1>プロジェクト "D:\program\OthelloAIgit\git\othelloAI\othelloAI\othelloAI.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.30
